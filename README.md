@@ -18,6 +18,8 @@ THEN I find a concise, descriptive title
 This is my Github repo link to view the refactored code.
 https://github.com/maritzadiaz77/SemanticHoriseon
 
+This is the link to the live project.
+https://maritzadiaz77.github.io/SemanticHoriseon/ 
 
 ## Usage
 
