@@ -15,12 +15,16 @@ THEN I find a concise, descriptive title
 
 ## Installation
 
-There is a Github repo link that will be provided soon to view the refactored code.
+This is my Github repo link to view the refactored code.
+https://github.com/maritzadiaz77/SemanticHoriseon
+
 
 ## Usage
 
-Screenshot image is here
-
+![alt text](<assets/images/OptimizationHoriseon - Google Chrome 8_3_2024 10_07_30 PM.png>)
+![alt text](<assets/images/OptimizationHoriseon - Google Chrome 8_3_2024 10_07_47 PM.png>)
+![alt text](<assets/images/OptimizationHoriseon - Google Chrome 8_3_2024 10_08_00 PM.png>)
+![alt text](<assets/images/OptimizationHoriseon - Google Chrome 8_3_2024 10_08_09 PM.png>)
 ## Credits
 
 Here is a link that I used to understand the assignment better. I used W3Schools to understand what semantic html elements were.
